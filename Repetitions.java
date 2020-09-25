@@ -11,7 +11,8 @@ public class Repetitions {
 		
 		System.out.println(solve(str));
 		
-		
+		scanner.close();
+	
 	}
 	
 	public static int solve(String str) {
