@@ -1,7 +1,4 @@
 import java.util.*;
-import java.lang.*;
-import java.io.*;
-
 
 public class WeirdAlgo {
 	
@@ -12,6 +9,9 @@ public class WeirdAlgo {
 		long n = scanner.nextLong();
 		
 		solve(n);
+		
+		scanner.close();
+
 	}
 	
 	public static void solve(long n) {
