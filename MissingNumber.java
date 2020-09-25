@@ -17,6 +17,8 @@ public class MissingNumber {
 		}
 		
 		System.out.println(solve(n, num));
+		
+		scanner.close();
 	}
 	
 	public static int solve(int n, int[] num) {
