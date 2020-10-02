@@ -1,2 +1,2 @@
-# CompetitiveProgramming
+# CompetitiveProgramming/CSES
 CSES
